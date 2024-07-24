@@ -1,5 +1,7 @@
 # LocalizableSample
 
+A `Localization.strings` file is a key component for implementing multi-language support in software applications. It acts as a repository for strings of text translated into various languages, allowing the application to dynamically display content in the user's preferred language based on system settings or user selection. 
+
 ## How to setup 
 
 * Add new strings file
