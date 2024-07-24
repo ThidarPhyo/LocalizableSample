@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizableSample
+
+  Created by Thidar Phyo on 7/24/24.
+  
+*/
+
+"label1" = "First Name";
+"label2" = "Last Name";
